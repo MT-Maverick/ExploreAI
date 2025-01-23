@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: weather_analysis
+Version: 0.1
+Summary: A Python package for weather data analysis using pandas and numpy
+Author: 2407
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
