@@ -9,7 +9,7 @@ def get_highest_precipitation_month(data):
     """
     Get the month with the highest precipitation.
     """
-    if "Precipitation" not in data.columns or "Category" not in data.columns:
+    if "Precipitation" not in data.columns or "Month" not in data.columns:
         raise ValueError("The required columns 'Precipitation' and 'Category' are missing.")
 
     max_precip_row = data.loc[data["Precipitation"].idxmax()]
