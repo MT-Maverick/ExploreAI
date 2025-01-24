@@ -1,2 +1,0 @@
-tests
-weather_analysis
