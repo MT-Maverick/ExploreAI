@@ -1,2 +1,2 @@
 # ExploreAI
-A repository showcasing the skills attained during the Explore AI training program
+This dataset offers a detailed analysis of vegetable prices across different regions. Collected from an authorized source (https://agmarknet.gov.in/), this dataset provides a sample set to understand the dynamics of vegetable pricing trends. The dataset includes information on a wide range of vegetables, detailing prices over time.
