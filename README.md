@@ -6,5 +6,5 @@ This dataset offers a detailed analysis of vegetable prices across different reg
 **In this analysis we will determine:**
 
 1-if seasons contribute to vegetable prices?❄️🕐☀️
-2-if specific vegetables are bought more frequently than others?🥑🔼🔽🌽
-3-what do the prices have in common with the vegetable type and what does it mean?
+2-what do the prices have in common with the vegetable type and what does it mean?🥑🔼🔽🌽
+3-
