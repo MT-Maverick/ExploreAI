@@ -5,6 +5,17 @@ This dataset offers a detailed analysis of vegetable prices across different reg
 
 **In this analysis we will determine:**
 
-1-if seasons contribute to vegetable prices?❄️🕐☀️
-2-what do the prices have in common with the vegetable type and what does it mean?🥑🔼🔽🌽
-3-
+1) if seasons contribute to vegetable prices?❄️🕐☀️
+2) what do the prices have in common with the vegetable type and what does it mean?🥑🔼🔽🌽
+
+## Setup
+
+clone the repository using:
+> git clone: (github repository url)
+
+open terminal where the folder is and type:
+to activate the virtual environment
+ > source ./bin/activate
+
+open notebook:
+> notebook.ipynb
